@@ -1,0 +1,16 @@
+Python 3.5.2 (v3.5.2:4def2a2901a5, Jun 25 2016, 22:01:18) [MSC v.1900 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> if readme is true
+SyntaxError: invalid syntax
+>>> 
+User Story #1. Theft. A students Id card can always be stolen and use as if a credit card was stolen.
+The best way to prevent this is all Id card to be pin-based only.  Using the card requires a pincode.
+
+User Story #2. Database.  Adding all students to new database will be time consuming because not all students currently have id cards or use student account to pay for food and supplies.
+This new database will not only include student info registar already has but now credit card information added to it.
+Possible solution is to have a credit card link to student's id right at the start of acceptance to the school.
+Keep a separate database with extra encryption in case of a school data breach.
+
+User  Story #3. Encryption.  There are plenty of programs to reverse engineer hash code  encrytions.
+The school will have to invest in a top of the line encrytion saoftware to ensure maximum protection for its students
+Solution is the have a hash program with salt to make it harder to decrypt the hash.
